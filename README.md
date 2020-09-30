@@ -1,1 +1,1 @@
-# DeepLabV3-TensorFlow2.x
+# TensorFlow 2.x implementation of DeepLabV3+
